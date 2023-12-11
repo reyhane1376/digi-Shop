@@ -1,0 +1,9 @@
+{
+    "cSpell.ignoreWords": [
+        "commentable",
+        "copan",
+        "id"
+    ],
+    "editor.suggest.snippetsPreventQuickSuggestions": false,
+    "aiXcoder.showTrayIcon": true
+}
