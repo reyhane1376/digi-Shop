@@ -13,3 +13,5 @@ using different payment methods.
 6. <strong>Notification System:</strong> The CMS includes a complete notification system to keep users informed about order status updates, new blog posts, and other important information.
 
 <img src="/public/admin-assets/adminPanel.png">
+----------------------------------------------------------------
+<img src="/public/admin-assets/customerPage.png">
