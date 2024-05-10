@@ -12,4 +12,4 @@ using different payment methods.
 5. <strong>Custom Page Builder:</strong> The CMS offers a fully customizable page builder that allows users to create and manage their own pages with different layouts and content.
 6. <strong>Notification System:</strong> The CMS includes a complete notification system to keep users informed about order status updates, new blog posts, and other important information.
 
-<img src="public/admin-assets/adminPanel.png">
+<img src="/public/admin-assets/adminPanel.png">
